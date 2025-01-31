@@ -5,7 +5,7 @@ public class bubblesort {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         int arr[]=new int[n];
-        System.out.println("REnter the  elements:");
+        System.out.println("Enter the  elements:");
         for(int i=0;i<n;i++)
         {
             arr[i]=sc.nextInt();
